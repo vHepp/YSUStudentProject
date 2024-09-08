@@ -1,5 +1,6 @@
 # DriveOhio Project README
-## YSUStudentProject
+
+## YSUStudentProject 
 
 A project partnership with the Youngstown State University Data Mine.
 
@@ -73,9 +74,7 @@ The overall ecosystem behaves in the following manner:
 
 Whatever specific end file you run you can expect the output of that whether it be visualizations, etc.
 
-
 ##### Output description
-
 
 Mapping - dash maps that will show the data you request
 
